@@ -9,6 +9,12 @@
 
 ## 🔗 Link do Repositório
 > _https://github.com/filipebdias/A2_Mobile
+> 
+> Usuário do sistema 
+> email: carlos@unitins.br
+> senha: pass1234
+> email: joao@unitins.br
+> senha: 123456
 
 ---
 
