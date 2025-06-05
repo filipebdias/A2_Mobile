@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 Link do Repositório
-> _(Adicionar aqui o link do repositório GitHub ou GitLab do projeto)_
+> _https://github.com/filipebdias/A2_Mobile
 
 ---
 
