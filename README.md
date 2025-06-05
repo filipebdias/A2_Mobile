@@ -32,6 +32,7 @@ As telas abaixo representam a interface desenvolvida para o aplicativo mobile ac
 ![Figura 5 – Rematrícula Online](assets/images/imagem5.png)  
 
 *Figura 6 – Dashboard*
+
 ![Figura 6 – Situação Acadêmica](assets/images/imagem6.png)  
 
 
