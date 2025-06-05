@@ -16,30 +16,31 @@
 
 As telas abaixo representam a interface desenvolvida para o aplicativo mobile acadêmico:
 
-![Figura 1 – Tela de Login](assets/images/imagem1.png)  
 *Figura 1 – Tela de Login*
+![Figura 1 – Tela de Login](assets/images/imagem1.png)  
 
+*Figura 2 – Situação Acadêmica*
 ![Figura 2 – Dashboard](assets/images/imagem2.png)  
-*Figura 2 – Dashboard*
 
+*Figura 3 – Rematrícula Online*
 ![Figura 3 – Boletim Acadêmico](assets/images/imagem3.png)  
-*Figura 3 – Boletim Acadêmico*
 
-![Figura 4 – Matriz Curricular](assets/images/imagem4.png)  
 *Figura 4 – Matriz Curricular*
+![Figura 4 – Matriz Curricular](assets/images/imagem4.png)  
 
+*Figura 5 – Boletim Acadêmico*
 ![Figura 5 – Rematrícula Online](assets/images/imagem5.png)  
-*Figura 5 – Rematrícula Online*
 
+*Figura 6 – Dashboard*
 ![Figura 6 – Situação Acadêmica](assets/images/imagem6.png)  
-*Figura 6 – Situação Acadêmica*
+
 
 ---
 
 ## ⚙️ Funcionalidades Principais
 
 - **Tela de Login:**  
-  Permite ao usuário acessar o sistema com nome de usuário e senha. Também oferece a opção de redefinir a senha em caso de esquecimento.
+  Permite ao usuário acessar o sistema com nome de usuário e senha. 
 
 - **Dashboard:**  
   Exibe um resumo geral com atalhos para as principais funcionalidades como boletim, grade curricular, situação acadêmica, entre outras.
@@ -69,7 +70,7 @@ As telas abaixo representam a interface desenvolvida para o aplicativo mobile ac
 - Entrada de nome de usuário e senha
 - Validação de credenciais
 - Redirecionamento para o Dashboard
-- Opção de redefinir senha
+
 
 ### 🧭 Dashboard
 - Exibição de panorama geral do aluno
