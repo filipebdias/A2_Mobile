@@ -16,22 +16,22 @@
 
 As telas abaixo representam a interface desenvolvida para o aplicativo mobile acadêmico:
 
-![Figura 1 – Tela de Login](assets/imagens/imagem1.png)  
+![Figura 1 – Tela de Login](assets/images/imagem1.png)  
 *Figura 1 – Tela de Login*
 
-![Figura 2 – Dashboard](assets/imagens/imagem2.png)  
+![Figura 2 – Dashboard](assets/images/imagem2.png)  
 *Figura 2 – Dashboard*
 
-![Figura 3 – Boletim Acadêmico](assets/imagens/imagem3.png)  
+![Figura 3 – Boletim Acadêmico](assets/images/imagem3.png)  
 *Figura 3 – Boletim Acadêmico*
 
-![Figura 4 – Matriz Curricular](assets/imagens/imagem4.png)  
+![Figura 4 – Matriz Curricular](assets/images/imagem4.png)  
 *Figura 4 – Matriz Curricular*
 
-![Figura 5 – Rematrícula Online](assets/imagens/imagem5.png)  
+![Figura 5 – Rematrícula Online](assets/images/imagem5.png)  
 *Figura 5 – Rematrícula Online*
 
-![Figura 6 – Situação Acadêmica](assets/imagens/imagem6.png)  
+![Figura 6 – Situação Acadêmica](assets/images/imagem6.png)  
 *Figura 6 – Situação Acadêmica*
 
 ---
